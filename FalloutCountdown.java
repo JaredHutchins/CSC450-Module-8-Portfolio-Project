@@ -1,5 +1,3 @@
-
-
 /**
  * FalloutCountdown.java
  *
